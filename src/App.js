@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello World here is</p>
-        <p><i>Ans Choudhary</i></p>
+        <p>Hello Dear! How are you?</p>
         <h>This is my first React app.</h>
+        <p><i>Ans Choudhary</i></p>
         <a
           className="App-link"
           href="https://www.facebook.com/Ans.choudhary01/"
@@ -24,9 +24,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          You can contact with me on Instagram.
+          You can contact me on Instagram.
         </a>
-        <a>Ans</a>
       </header>
     </div>
   );
