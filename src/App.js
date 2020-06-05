@@ -13,18 +13,18 @@ function App() {
         <a
           className="App-link"
           href="https://www.facebook.com/Ans.choudhary01/"
-          target="_blank"
+          target="_Facebook"
           rel="noopener noreferrer"
         >
-          You can contact with me here.
+          You can contact me on Facebook.
         </a>
         <a
           className="App-link"
-          href="https://www.facebook.com/Ans.choudhary01/"
+          href="https://www.instagram.com/ans_ch1/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          You can contact with me here.
+          You can contact with me on Instagram.
         </a>
       </header>
     </div>
