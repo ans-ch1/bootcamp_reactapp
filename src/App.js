@@ -9,14 +9,14 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello World here is</p>
         <p><i>Ans Choudhary</i></p>
-        <h>This is my first React app</h>
+        <h>This is my first React app.</h>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/Ans.choudhary01/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          You can contact with me here.
         </a>
       </header>
     </div>
