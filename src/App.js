@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Dear! How are you?</p>
         <h>This is my first React app.</h>
-        <p><i>Ans Choudhary</i></p>
+        <p><b><i>Ans Choudhary</i></b></p>
         <a
           className="App-link"
           href="https://www.facebook.com/Ans.choudhary01/"
